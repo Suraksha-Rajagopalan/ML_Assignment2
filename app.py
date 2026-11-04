@@ -32,7 +32,7 @@ MODEL_FILES = {
     "Decision Tree": "decision_tree.joblib",
     "K-Nearest Neighbors": "knn.joblib",
     "Naive Bayes": "naive_bayes.joblib",
-    "Support Vector Machine": "svm.joblib"
+    "Support Vector Machine": "support_vector_machine.joblib"
 }
 
 TARGET_COLUMN = "Target"

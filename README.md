@@ -41,6 +41,7 @@ The dataset is used to train and evaluate five different machine learning classi
 ## C. GitHub Repository Link
 
 **GitHub Repository:** https://github.com/Suraksha-Rajagopalan/ML_Assignment2
+
 **StreamLit App**: https://suraksha-rajagopalan-ml-assignment2-app-uxwwc6.streamlit.app/
 
 The repository contains the trained machine learning models, Streamlit application, sample test dataset, and files required to install and execute the project.
